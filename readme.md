@@ -1,4 +1,4 @@
-Thanks to https://community.intel.com/t5/Mobile-and-Desktop-Processors/How-to-verify-an-Intel-PTT-endorsement-key-certificate/td-p/1603153/page/2 and support of @fblaese, as well as a bit of AI Help I was able to demystify the Intel TPM Endorsement Key Certificate and being able to verify it.
+Thanks to https://community.intel.com/t5/Mobile-and-Desktop-Processors/How-to-verify-an-Intel-PTT-endorsement-key-certificate/td-p/1603153/page/2 and support of [@fblaese](https://github.com/fblaese), as well as a bit of LLM Help I was able to demystify the Intel TPM Endorsement Key Certificate and being able to verify it.
 
 # Hierarchy
 
